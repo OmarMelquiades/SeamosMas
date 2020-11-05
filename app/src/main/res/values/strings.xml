@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="btnA2">Ir Activity Dos</string>
+    <string name="btnMA">Volver a Main Activity</string>
+    <string name="Activity2">Activity 2</string>
+    <string name="main"> Main Activity </string>
+
+</resources>
